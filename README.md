@@ -11,14 +11,7 @@
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GRANTZ-red.svg?style=for-the-badge&logo=github"></a>
 </p>
-<p align="center">
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Itachi_Uchiha-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx/Itachi_Uchiha-Md?color=yellow&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Itachi_Uchiha-Md?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-#
+
 
 ## Grantz-MD Deployment Methods
 ---
